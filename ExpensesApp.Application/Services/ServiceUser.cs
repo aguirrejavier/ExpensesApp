@@ -26,6 +26,12 @@ namespace ExpensesApp.Application.Services
             return usuario;
         }
 
+        public void Delete(int entity)
+        {
+            repositoryUser.Delete(entity);
+            repositoryUser.GuardarCambios();
+        }
+
         public void LoginUser(User entity)
         {
             throw new NotImplementedException();
@@ -33,7 +39,10 @@ namespace ExpensesApp.Application.Services
 
         public void Modify(User entity)
         {
-            throw new NotImplementedException();
+            if (entity == null)
+                throw new NotImplementedException();
+            repositoryUser.Modify(entity);
+            repositoryUser.GuardarCambios();
         }
     }
 }

@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace ExpensesApp.Application.Interfaces
 {
-    public interface IServiceUser<T,TId> : IAdd<T>, IModify<T>
+    public interface IServiceUser<T,TId> : IAdd<T>, IModify<T>, IDelete<TId>
     {
         public void LoginUser (T entity);
     }
