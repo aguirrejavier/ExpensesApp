@@ -3,13 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.2.32630.192
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BackEnd", "BackEnd\BackEnd.csproj", "{DE7D7A93-659B-4808-B8BF-496C0F073480}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExpensesApp.Infrastructure.API", "BackEnd\ExpensesApp.Infrastructure.API.csproj", "{DE7D7A93-659B-4808-B8BF-496C0F073480}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExpensesApp.Domain", "ExpensesApp.Dominio\ExpensesApp.Domain.csproj", "{90F14DD5-06B2-4EA5-AEA0-7E5C098D13CC}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExpensesApp.Application", "ExpensesApp.Application\ExpensesApp.Application.csproj", "{277B298D-D3EC-4C48-AF59-B41ADAB1873E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExpensesApp.Infrastructure.Data", "ExpensesApp.Infrastructure.Data\ExpensesApp.Infrastructure.Data.csproj", "{36980FE1-659B-45E9-A248-0CEEA155E6B2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExpensesApp.Infrastructure.Data", "ExpensesApp.Infrastructure.Data\ExpensesApp.Infrastructure.Data.csproj", "{36980FE1-659B-45E9-A248-0CEEA155E6B2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -1,0 +1,17 @@
+C:\Users\MC\source\repos\ExpensesApp\ExpensesApp.Infrastructure.Data\bin\Debug\net6.0\ExpensesApp.Infrastructure.Data.deps.json
+C:\Users\MC\source\repos\ExpensesApp\ExpensesApp.Infrastructure.Data\bin\Debug\net6.0\ExpensesApp.Infrastructure.Data.dll
+C:\Users\MC\source\repos\ExpensesApp\ExpensesApp.Infrastructure.Data\bin\Debug\net6.0\ExpensesApp.Infrastructure.Data.pdb
+C:\Users\MC\source\repos\ExpensesApp\ExpensesApp.Infrastructure.Data\bin\Debug\net6.0\ExpensesApp.Domain.dll
+C:\Users\MC\source\repos\ExpensesApp\ExpensesApp.Infrastructure.Data\bin\Debug\net6.0\ExpensesApp.Domain.pdb
+C:\Users\MC\source\repos\ExpensesApp\ExpensesApp.Infrastructure.Data\obj\Debug\net6.0\ExpensesApp.Infrastructure.Data.csproj.AssemblyReference.cache
+C:\Users\MC\source\repos\ExpensesApp\ExpensesApp.Infrastructure.Data\obj\Debug\net6.0\ExpensesApp.Infrastructure.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MC\source\repos\ExpensesApp\ExpensesApp.Infrastructure.Data\obj\Debug\net6.0\ExpensesApp.Infrastructure.Data.AssemblyInfoInputs.cache
+C:\Users\MC\source\repos\ExpensesApp\ExpensesApp.Infrastructure.Data\obj\Debug\net6.0\ExpensesApp.Infrastructure.Data.AssemblyInfo.cs
+C:\Users\MC\source\repos\ExpensesApp\ExpensesApp.Infrastructure.Data\obj\Debug\net6.0\ExpensesApp.Infrastructure.Data.csproj.CoreCompileInputs.cache
+C:\Users\MC\source\repos\ExpensesApp\ExpensesApp.Infrastructure.Data\obj\Debug\net6.0\ExpensesApp.Infrastructure.Data.csproj.CopyComplete
+C:\Users\MC\source\repos\ExpensesApp\ExpensesApp.Infrastructure.Data\obj\Debug\net6.0\ExpensesApp.Infrastructure.Data.dll
+C:\Users\MC\source\repos\ExpensesApp\ExpensesApp.Infrastructure.Data\obj\Debug\net6.0\refint\ExpensesApp.Infrastructure.Data.dll
+C:\Users\MC\source\repos\ExpensesApp\ExpensesApp.Infrastructure.Data\obj\Debug\net6.0\ExpensesApp.Infrastructure.Data.pdb
+C:\Users\MC\source\repos\ExpensesApp\ExpensesApp.Infrastructure.Data\obj\Debug\net6.0\ref\ExpensesApp.Infrastructure.Data.dll
+C:\Users\MC\source\repos\ExpensesApp\ExpensesApp.Infrastructure.Data\bin\Debug\net6.0\ExpensesApp.Infrastructure.Data.runtimeconfig.json
+C:\Users\MC\source\repos\ExpensesApp\ExpensesApp.Infrastructure.Data\obj\Debug\net6.0\ExpensesApp.Infrastructure.Data.genruntimeconfig.cache

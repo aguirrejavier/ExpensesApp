@@ -9,6 +9,6 @@ namespace ExpensesApp.Domain.Interface.Repositorys
 {
     public interface IRepositoryUser<T,TId> : IAdd<T>, IModify<T>, IDelete<TId>, IList<T,TId>
     {
-        public void GuardarCambios();
+        public T SaveChanges();
     }
 }

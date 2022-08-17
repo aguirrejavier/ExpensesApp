@@ -1,8 +1,8 @@
 {
   "Version": 1,
-  "Hash": "cPqfaYa80spAnn83F5ijizHSf4K7X8YH25xJLDw7OM8=",
-  "Source": "BackEnd",
-  "BasePath": "_content/BackEnd",
+  "Hash": "ctlYLxmkswlXpvHxh04FAxLF3ocO3rDps4S7wA8GE7E=",
+  "Source": "ExpensesApp.Infrastructure.API",
+  "BasePath": "_content/ExpensesApp.Infrastructure.API",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],

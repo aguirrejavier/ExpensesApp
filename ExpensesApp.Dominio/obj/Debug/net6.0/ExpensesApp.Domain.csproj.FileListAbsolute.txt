@@ -1,0 +1,12 @@
+C:\Users\MC\source\repos\ExpensesApp\ExpensesApp.Dominio\bin\Debug\net6.0\ExpensesApp.Domain.deps.json
+C:\Users\MC\source\repos\ExpensesApp\ExpensesApp.Dominio\bin\Debug\net6.0\ExpensesApp.Domain.dll
+C:\Users\MC\source\repos\ExpensesApp\ExpensesApp.Dominio\bin\Debug\net6.0\ExpensesApp.Domain.pdb
+C:\Users\MC\source\repos\ExpensesApp\ExpensesApp.Dominio\obj\Debug\net6.0\ExpensesApp.Domain.csproj.AssemblyReference.cache
+C:\Users\MC\source\repos\ExpensesApp\ExpensesApp.Dominio\obj\Debug\net6.0\ExpensesApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MC\source\repos\ExpensesApp\ExpensesApp.Dominio\obj\Debug\net6.0\ExpensesApp.Domain.AssemblyInfoInputs.cache
+C:\Users\MC\source\repos\ExpensesApp\ExpensesApp.Dominio\obj\Debug\net6.0\ExpensesApp.Domain.AssemblyInfo.cs
+C:\Users\MC\source\repos\ExpensesApp\ExpensesApp.Dominio\obj\Debug\net6.0\ExpensesApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\MC\source\repos\ExpensesApp\ExpensesApp.Dominio\obj\Debug\net6.0\ExpensesApp.Domain.dll
+C:\Users\MC\source\repos\ExpensesApp\ExpensesApp.Dominio\obj\Debug\net6.0\refint\ExpensesApp.Domain.dll
+C:\Users\MC\source\repos\ExpensesApp\ExpensesApp.Dominio\obj\Debug\net6.0\ExpensesApp.Domain.pdb
+C:\Users\MC\source\repos\ExpensesApp\ExpensesApp.Dominio\obj\Debug\net6.0\ref\ExpensesApp.Domain.dll

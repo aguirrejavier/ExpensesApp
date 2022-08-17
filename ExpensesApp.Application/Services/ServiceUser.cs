@@ -17,19 +17,11 @@ namespace ExpensesApp.Application.Services
         {
             repositoryUser = _repositoryUser;
         }
-        public User Add(User entity)
-        {
-            if (entity == null)
-                return null;
-            var usuario = repositoryUser.Add(entity);
-            repositoryUser.GuardarCambios();
-            return usuario;
-        }
 
         public void Delete(int entity)
         {
             repositoryUser.Delete(entity);
-            repositoryUser.GuardarCambios();
+            repositoryUser.SaveChanges();
         }
 
         public void LoginUser(User entity)
@@ -42,7 +34,16 @@ namespace ExpensesApp.Application.Services
             if (entity == null)
                 throw new NotImplementedException();
             repositoryUser.Modify(entity);
-            repositoryUser.GuardarCambios();
+            repositoryUser.SaveChanges();
+        }
+
+        public User RegisterUser(User entity)
+        {
+            if (entity == null)
+                return null;
+            repositoryUser.Add(entity);
+            var usuario = repositoryUser.SaveChanges();
+            return usuario;
         }
     }
 }

@@ -8,6 +8,6 @@ namespace ExpensesApp.Domain.Interfaces
 {
     public interface IAdd<T>
     {
-        public T Add(T entity);
+        public void Add(T entity);
     }
 }

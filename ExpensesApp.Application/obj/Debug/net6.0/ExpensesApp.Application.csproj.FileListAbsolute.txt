@@ -1,0 +1,15 @@
+C:\Users\MC\source\repos\ExpensesApp\ExpensesApp.Application\bin\Debug\net6.0\ExpensesApp.Application.deps.json
+C:\Users\MC\source\repos\ExpensesApp\ExpensesApp.Application\bin\Debug\net6.0\ExpensesApp.Application.dll
+C:\Users\MC\source\repos\ExpensesApp\ExpensesApp.Application\bin\Debug\net6.0\ExpensesApp.Application.pdb
+C:\Users\MC\source\repos\ExpensesApp\ExpensesApp.Application\bin\Debug\net6.0\ExpensesApp.Domain.dll
+C:\Users\MC\source\repos\ExpensesApp\ExpensesApp.Application\bin\Debug\net6.0\ExpensesApp.Domain.pdb
+C:\Users\MC\source\repos\ExpensesApp\ExpensesApp.Application\obj\Debug\net6.0\ExpensesApp.Application.csproj.AssemblyReference.cache
+C:\Users\MC\source\repos\ExpensesApp\ExpensesApp.Application\obj\Debug\net6.0\ExpensesApp.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MC\source\repos\ExpensesApp\ExpensesApp.Application\obj\Debug\net6.0\ExpensesApp.Application.AssemblyInfoInputs.cache
+C:\Users\MC\source\repos\ExpensesApp\ExpensesApp.Application\obj\Debug\net6.0\ExpensesApp.Application.AssemblyInfo.cs
+C:\Users\MC\source\repos\ExpensesApp\ExpensesApp.Application\obj\Debug\net6.0\ExpensesApp.Application.csproj.CoreCompileInputs.cache
+C:\Users\MC\source\repos\ExpensesApp\ExpensesApp.Application\obj\Debug\net6.0\ExpensesApp.Application.csproj.CopyComplete
+C:\Users\MC\source\repos\ExpensesApp\ExpensesApp.Application\obj\Debug\net6.0\ExpensesApp.Application.dll
+C:\Users\MC\source\repos\ExpensesApp\ExpensesApp.Application\obj\Debug\net6.0\refint\ExpensesApp.Application.dll
+C:\Users\MC\source\repos\ExpensesApp\ExpensesApp.Application\obj\Debug\net6.0\ExpensesApp.Application.pdb
+C:\Users\MC\source\repos\ExpensesApp\ExpensesApp.Application\obj\Debug\net6.0\ref\ExpensesApp.Application.dll
